@@ -1,9 +1,12 @@
 {
-  "name": "animal-crossing",
+  "name": "@bitress/animal-crossing",
   "version": "8.2.0",
   "description": "A database for Animal Crossing: New Horizons.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib/**/*"
   ],
@@ -18,21 +21,23 @@
     "publish:minor": "./node_modules/standard-version/bin/cli.js --release-as minor && npm run publish",
     "publish:major": "./node_modules/standard-version/bin/cli.js --release-as major && npm run publish",
     "publish": "git push --follow-tags origin main && npm publish",
+    "bundle": "node ./bin/bundle.js",
+    "build:single": "node ./bin/bundle.js",
     "start": "npm run build:src && rimraf ./json/combined ./json/data ./json/raw && node ./build/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chopaeng/animal-crossing.git"
+    "url": "git+https://github.com/bitress/animal-crossing.git"
   },
   "keywords": [
     "Animal Crossing"
   ],
-  "author": "norviah",
+  "author": "bitress",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chopaeng/animal-crossing/issues"
+    "url": "https://github.com/bitress/animal-crossing/issues"
   },
-  "homepage": "https://github.com/chopaeng/animal-crossing/tree/main/module#readme",
+  "homepage": "https://github.com/bitress/animal-crossing#readme",
   "devDependencies": {
     "@norviah/sheets": "^4.2.0",
     "@types/app-root-path": "^1.2.4",

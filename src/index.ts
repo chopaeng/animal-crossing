@@ -40,6 +40,9 @@ async function main(): Promise<void> {
 
   // Combines every JSON file via categories.
   await import('./scripts/combine');
+
+  // Bundles all categories into a single unified JSON file.
+  await import('./scripts/bundle');
 }
 
 main();
