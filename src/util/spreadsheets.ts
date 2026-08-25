@@ -8,7 +8,7 @@ import { directories } from './directories';
  */
 export const spreadsheets: Spreadsheet[] = [
   {
-    id: '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM',
+    id: '13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4',
     exclude: ['Editor Read Me', 'Read Me', 'Unused Unique IDs'],
     dir: directories.raw,
   },

@@ -4,7 +4,7 @@ An Animal Crossing: New Horizons database for npm, the data available through th
 
 In addition to the spreadsheets converted to JSON, the data have been sanitized and modified so working with them can be more friendly and easier, for example, recipes and translations have been merged into their relevant item.
 
-If you're just looking for the JSON files, they can be viewed in [this directory](https://github.com/Norviah/animal-crossing/tree/master/json). For a guide on how to run the converter locally, look at this [README](https://github.com/Norviah/animal-crossing/blob/master/CONVERT.md).
+If you're just looking for the JSON files, they can be viewed in [this directory](https://github.com/chopaeng/animal-crossing/tree/main/json). For a guide on how to run the converter locally, look at this [README](https://github.com/chopaeng/animal-crossing/blob/main/CONVERT.md).
 
 ### Installation
 
@@ -14,7 +14,7 @@ npm install animal-crossing
 
 ### Documentation
 
-Documentation is generated using [typedoc](https://www.npmjs.com/package/typedoc) with the [typedoc-plugin-markdown](https://www.npmjs.com/package/typedoc-plugin-markdown) plugin, and can be viewed [here](https://github.com/Norviah/animal-crossing/tree/master/module/docs).
+Documentation is generated using [typedoc](https://www.npmjs.com/package/typedoc) with the [typedoc-plugin-markdown](https://www.npmjs.com/package/typedoc-plugin-markdown) plugin, and can be viewed [here](https://github.com/chopaeng/animal-crossing/tree/main/module/docs).
 
 ### Usage
 
@@ -45,7 +45,7 @@ Along with types, for those using TypeScript:
 
 The names of all items are changed into camelCase, so they won't be same as shown on the spreadsheets. As for values, they're all changed in favor of JavaScript values, for example, `NA` is changed to `null`, `Yes`/`No` is changed to `true`/`false`, etc. If a value represents that the key does not relate to the item, an example being the key `Lighting Type` for the item `Acoustic Guitar`, the value will be changed to `null`. In addition, if a key can have multiple values, the values will be split and changed into an array.
 
-As for the rest of the values, they're the same as they appear on the spreadsheets. To view how the keys/values are represented, you can look at the [documentation](https://github.com/Norviah/animal-crossing/tree/master/module/docs) or the JSON files [here](https://github.com/Norviah/animal-crossing/tree/master/json).
+As for the rest of the values, they're the same as they appear on the spreadsheets. To view how the keys/values are represented, you can look at the [documentation](https://github.com/chopaeng/animal-crossing/tree/main/module/docs) or the JSON files [here](https://github.com/chopaeng/animal-crossing/tree/main/json).
 
 Note that all entries are arrays, so to find a certain item, you can use the `find` method.
 

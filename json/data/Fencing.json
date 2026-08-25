@@ -2,7 +2,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "Bunny Day fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceEgg.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -15,7 +15,7 @@
     "sell": 240,
     "source": [ "Crafting" ],
     "sourceNotes": null,
-    "seasonEvent": "Bunny Day (ready days); Bunny Day",
+    "seasonEvent": "Bunny Day (days before); Bunny Day",
     "seasonEventExclusive": true,
     "catalog": "Not for sale",
     "versionAdded": "1.1.0",
@@ -46,7 +46,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceEgg.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceEgg.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -54,7 +54,7 @@
       "exchangeCurrency": null,
       "source": [ "Egg bottles", "Egg balloons" ],
       "sourceNotes": null,
-      "seasonEvent": "Bunny Day (ready days); Bunny Day",
+      "seasonEvent": "Bunny Day (days before); Bunny Day",
       "seasonEventExclusive": true,
       "versionAdded": "1.1.0",
       "unlocked": true,
@@ -196,7 +196,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "bamboo lattice fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBamboo.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -240,7 +240,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBamboo.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceBamboo.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -268,7 +268,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "bamboo-slats fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSandProtection.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSandProtection.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -312,7 +312,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo-slats fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSandProtection.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSandProtection.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -340,7 +340,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "barbed-wire fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBarbedWire.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -384,7 +384,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "barbed-wire fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBarbedWire.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceBarbedWire.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -412,7 +412,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "block fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceConcreteBlock.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceConcreteBlock.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -456,7 +456,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "block fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceConcreteBlock.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceConcreteBlock.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -484,7 +484,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "brick fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceWallRenga.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -528,7 +528,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brick fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceWallRenga.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceWallRenga.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -556,7 +556,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "corral fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalWood.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -600,7 +600,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corral fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHorizontalWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -660,7 +660,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png",
         "variation": "Gray",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -692,7 +692,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -724,7 +724,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -756,7 +756,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -788,7 +788,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -820,7 +820,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -852,7 +852,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -884,7 +884,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -919,7 +919,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corrugated iron fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceCorrugatedIron.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceCorrugatedIron.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -947,7 +947,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "country fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLog.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -991,7 +991,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "country fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLog.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLog.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1051,7 +1051,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_0_0.png",
         "variation": "Ice",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1083,7 +1083,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_1_0.png",
         "variation": "Ice blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1115,7 +1115,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_2_0.png",
         "variation": "Ice pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1147,7 +1147,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_3_0.png",
         "variation": "Ice yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1179,7 +1179,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_4_0.png",
         "variation": "Ice orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1211,7 +1211,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_5_0.png",
         "variation": "Ice green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1243,7 +1243,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_6_0.png",
         "variation": "Ice purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1278,7 +1278,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "frozen fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIce.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIce.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1306,7 +1306,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "green bamboo fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCrossedBamboo.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCrossedBamboo.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1350,7 +1350,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "green bamboo fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceCrossedBamboo.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceCrossedBamboo.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1378,7 +1378,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "hedge",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIkegaki.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1391,8 +1391,8 @@
     "sell": 55,
     "source": [ "Crafting" ],
     "sourceNotes": null,
-    "seasonEvent": "Nature Day",
-    "seasonEventExclusive": false,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
     "catalog": "Not for sale",
     "versionAdded": "1.2.0",
     "unlocked": true,
@@ -1422,19 +1422,18 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hedge",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIkegaki.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIkegaki.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
       "exchangePrice": null,
       "exchangeCurrency": null,
-      "source": [ "Tom Nook", "Leif" ],
+      "source": [ "Leif" ],
       "sourceNotes": [
-        "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task",
         "Obtained from Leif after buying anything from him on three different days"
       ],
-      "seasonEvent": "Nature Day",
-      "seasonEventExclusive": false,
+      "seasonEvent": null,
+      "seasonEventExclusive": null,
       "versionAdded": "1.2.0",
       "unlocked": true,
       "recipesToUnlock": 0,
@@ -1475,7 +1474,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "imperial fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceChinese.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1519,7 +1518,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "imperial fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceChinese.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceChinese.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1579,7 +1578,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_0_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1611,7 +1610,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_1_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1643,7 +1642,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_2_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1675,7 +1674,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_3_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1707,7 +1706,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1739,7 +1738,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_5_0.png",
         "variation": "Orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1771,7 +1770,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_6_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1803,7 +1802,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_7_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -1838,7 +1837,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSteel.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSteel.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1866,7 +1865,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "iron-and-stone fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIronAndStone.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1910,7 +1909,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron-and-stone fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIronAndStone.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIronAndStone.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1970,7 +1969,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2002,7 +2001,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2034,7 +2033,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2066,7 +2065,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2098,7 +2097,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2130,7 +2129,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png",
         "variation": "Dark brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2162,7 +2161,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2194,7 +2193,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2229,7 +2228,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "large lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatticeBig.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLatticeBig.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2289,7 +2288,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2321,7 +2320,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2353,7 +2352,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2385,7 +2384,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2417,7 +2416,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2449,7 +2448,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2481,7 +2480,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2513,7 +2512,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2548,7 +2547,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatiiceNatural.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLatiiceNatural.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2576,7 +2575,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "log fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalLog.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalLog.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2620,7 +2619,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalLog.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHorizontalLog.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2648,7 +2647,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "log-wall fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLogWall.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLogWall.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2692,7 +2691,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log-wall fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLogWall.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLogWall.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2720,7 +2719,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "mermaid fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceMermaid.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceMermaid.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2764,7 +2763,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceMermaid.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceMermaid.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2864,7 +2863,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_0_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2896,7 +2895,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_1_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2928,7 +2927,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_2_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2960,7 +2959,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_3_0.png",
         "variation": "Lime",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -2992,7 +2991,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_4_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3024,7 +3023,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_5_0.png",
         "variation": "Red & yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3056,7 +3055,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_6_0.png",
         "variation": "Pink & blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3088,7 +3087,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_7_0.png",
         "variation": "Orange & green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3123,7 +3122,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "park fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePark.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFencePark.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3151,7 +3150,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "rope fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePegRope.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3195,7 +3194,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rope fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePegRope.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFencePegRope.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3257,7 +3256,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3289,7 +3288,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3321,7 +3320,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_2_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3353,7 +3352,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_3_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3385,7 +3384,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_4_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3417,7 +3416,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_5_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3449,7 +3448,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_6_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3481,7 +3480,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3516,7 +3515,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple wooden fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceNatural.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceNatural.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3544,7 +3543,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "spiky fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSharply.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3588,7 +3587,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spiky fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSharply.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSharply.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3616,7 +3615,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "spooky fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHalloween.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHalloween.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3629,7 +3628,7 @@
     "sell": 585,
     "source": [ "Crafting" ],
     "sourceNotes": null,
-    "seasonEvent": "Halloween (ready days); Halloween",
+    "seasonEvent": "Halloween (days before); Halloween",
     "seasonEventExclusive": true,
     "catalog": "Not for sale",
     "versionAdded": "1.5.0",
@@ -3660,7 +3659,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spooky fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHalloween.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHalloween.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3670,7 +3669,7 @@
       "sourceNotes": [
         "Obtained from crafting villagers during October or as a reward for gifting candy on Halloween"
       ],
-      "seasonEvent": "Halloween (ready days); Halloween",
+      "seasonEvent": "Halloween (days before); Halloween",
       "seasonEventExclusive": true,
       "versionAdded": "1.5.0",
       "unlocked": true,
@@ -3711,7 +3710,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "stone fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceStone.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3755,7 +3754,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceStone.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceStone.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3783,7 +3782,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "straw fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceDriedStraw.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3827,7 +3826,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "straw fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceDriedStraw.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceDriedStraw.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3908,7 +3907,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3940,7 +3939,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -3972,7 +3971,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4004,7 +4003,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4036,7 +4035,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4068,7 +4067,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4100,7 +4099,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4132,7 +4131,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4167,7 +4166,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vertical-board fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceVerticalWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceVerticalWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4227,7 +4226,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_0_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4259,7 +4258,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_1_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4291,7 +4290,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_2_0.png",
         "variation": "Mint",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4323,7 +4322,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_3_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4355,7 +4354,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_4_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4387,7 +4386,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_5_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4419,7 +4418,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_6_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4451,7 +4450,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_7_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4486,7 +4485,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJuneBride.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceJuneBride.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4546,7 +4545,7 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_0_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4578,7 +4577,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_1_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4610,7 +4609,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_2_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4642,7 +4641,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_3_0.png",
         "variation": "Orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4674,7 +4673,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_4_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4706,7 +4705,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_5_0.png",
         "variation": "Beige",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4738,7 +4737,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_6_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4770,7 +4769,7 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
@@ -4805,7 +4804,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "zen fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJapanese.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceJapanese.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
